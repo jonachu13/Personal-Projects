@@ -7,3 +7,5 @@
 	- SQL - Data Cleaning
 - Movie Data Correlation
 	- Python (numpy, pandas, seaborn) - correlation analysis
+- New vs Old Opportunities
+	- SQL - Analysis and Connecting to BI tool
